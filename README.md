@@ -5,4 +5,5 @@
 ### 3. Paste the github repos script.js in your script.
 ### 4. save the file and open youtube.
 
-right click on videos to uninterest them faster
+---
+Right click on videos to uninterest them faster
