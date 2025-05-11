@@ -24,3 +24,7 @@ Now you can quickly mark videos as “Not interested” by right-clicking on the
 **A:** Yes! Use:
 - **Ctrl + Left-click** to open in a new tab  
 - **Shift + Left-click** to open in a new window
+
+# Note
+
+code does not include support for playlists
