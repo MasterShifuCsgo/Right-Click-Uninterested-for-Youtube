@@ -14,7 +14,7 @@ Press `Ctrl+S` (or `Cmd+S` on Mac) to save. Then navigate to [YouTube](https://w
 
 ---
 
-Now You can quickly mark videos as “Not interested” by right-clicking on them — no need to open the menu!
+Now you can quickly mark videos as “Not interested” by right-clicking on them — no need to open the menu!
 
 ---
 
