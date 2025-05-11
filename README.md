@@ -1,17 +1,26 @@
 # How to Use This Script
 
 ### Step 1: Install Tampermonkey  
-Download and install the Tampermonkey extension from [https://www.tampermonkey.net/](https://www.tampermonkey.net/).
+Download and install the Tampermonkey browser extension from [https://www.tampermonkey.net/](https://www.tampermonkey.net/).
 
 ### Step 2: Create a New User Script  
-Click the Tampermonkey extension icon in your browser and select **"Create a new script"**.
+Click the Tampermonkey icon in your browser toolbar and select **"Create a new script"** from the menu.
 
 ### Step 3: Paste the Script  
 Copy the contents of `script.js` from the GitHub repository and paste it into the Tampermonkey editor.
 
 ### Step 4: Save and Test  
-Click **File > Save** (or press `Ctrl+S` / `Cmd+S`), then open [YouTube](https://www.youtube.com) to see the script in action.
+Press `Ctrl+S` (or `Cmd+S` on Mac) to save. Then navigate to [YouTube](https://www.youtube.com) to see the script in action.
 
 ---
 
-💡 **Tip:** Right-click on videos to mark them as “Not interested” faster!
+💡 **Tip:** You can quickly mark videos as “Not interested” by right-clicking on them — no need to open the menu!
+
+---
+
+# FAQ
+
+### Q: Can you open YouTube videos in a new tab or window if the right-click menu is disabled?  
+**A:** Yes! Use:
+- **Ctrl + Left-click** to open in a new tab  
+- **Shift + Left-click** to open in a new window
